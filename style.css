@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Iosevka';
-  src: url('assets/Iosevka.ttf');
+  font-family: 'myfont';
+  src: url('assets/myfont.otf');
 }
 
 body {
@@ -9,7 +9,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  font-family: 'Iosevka';
+  font-family: 'myfont';
   font-size: 20px;
   background-color: #111111;
   overflow: hidden;
@@ -33,7 +33,7 @@ nav {
 
 ul {
   display: table-cell;
-  text-align: center;
+  text-align: left;
   padding: 10px 25px;
   list-style: none;
   border-right: 1px solid #232328;
@@ -60,7 +60,7 @@ ul>li>a {
 }
 
 ul>li>a:hover {
-  color: white;
+  color: orange;
 }
 
 ul.green:hover {
@@ -91,7 +91,7 @@ ul.yellow:hover {
   align-items: center;
   position: relative;
   text-align: center;
-  font-family: 'Iosevka';
+  font-family: 'myfont';
   background-color: #1b1b1b;
   border: 10px solid #1b1b1b;
   border-radius: 10px;
@@ -103,7 +103,7 @@ ul.yellow:hover {
 }
 
 #flair {
-  color: #0972D6;
+  color: green;
 }
 
 #data-wrapper {
@@ -111,8 +111,8 @@ ul.yellow:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 770px;
-  height: 600px;
+  width: 1280px;
+  height: 720px;
 }
 
 #slideshow {

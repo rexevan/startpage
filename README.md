@@ -1,7 +1,7 @@
 Startpage
 ========
 
-A startpage that meets my needs. 
+A startpage that meets my needs.
 
 ### Live Demo: <a href="https://caffeineonice.github.io/startpage/">Demo</a>
 
