@@ -12,3 +12,4 @@ This is a fork of RamenMaestro's [startpage](https://github.com/RamenMaestro/sta
 
 ## Credits
 Images used in the sidebar are by background artist [Waneella](https://twitter.com/waneella_).
+Fonts used are from [Libertinus Font Family](https://github.com/alerque/libertinus).
